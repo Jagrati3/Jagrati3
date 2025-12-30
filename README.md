@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I am Jagrati 🙋‍♀️</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagrati3&label=Profile%20views&color=7a9ce1&style=plastic" alt="Jagrati3" />
+</p>
+
 ## 😁 About Me:
 
 Hi, I'm Jagrati — a B.Tech CSE’26 student from India.  
@@ -61,5 +65,15 @@ I’m continuously learning **MERN, AI Tools, and full-stack development** 🚀�
 
 
 [![](https://visitcount.itsvg.in/api?id=Jagrati3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## ***My Contribution Activity***
+
+<div align="center">
+  <img width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Jagrati3&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F30&title_color=F85D7F&area=true&hide_border=true&radius=16" 
+       alt="Jagrati's GitHub Activity Graph"/>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
