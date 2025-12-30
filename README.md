@@ -1,5 +1,19 @@
-<h1 align="center">Hi there, I am Jagrati 🙋‍♀️</h1>
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there,%20I%20am%20Jagrati%20🙋‍♀️&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" 
+    width="100%"
+  />
+</div>
 
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=00E5FF&center=true&vCenter=true&width=750&lines=MERN+Intern+%40+Edunet;Java+%26+DSA+Enthusiast;Aspiring+Frontend+Engineer;Open+Source+Contributor;Lifelong+Learner" 
+    alt="Typing SVG" 
+  />
+</div>
+<br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jagrati3&label=Profile%20views&color=7a9ce1&style=plastic" alt="Jagrati3" />
 </p>
