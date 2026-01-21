@@ -22,7 +22,7 @@
 
 Hi, I'm Jagrati — a B.Tech CSE’26 student from India.  
 I’m a **MERN Intern @Edunet**, a **Java & DSA enthusiast**, and an aspiring **Frontend Engineer**.  
-I contribute to **GSSoC’25 & WSoC’25**, have a **9+ CGPA**, and **qualified Flipkart Grid 7.0**.  
+I contribute to **GSSoC’25 & WSoC’25**, have a **9+ CGPA**, and **ECWoC26 Project Admin**.  
 I’m continuously learning **MERN, AI Tools, and full-stack development** 🚀💻
 
 
