@@ -71,11 +71,34 @@ I’m continuously learning **MERN, AI Tools, and full-stack development** 🚀�
 
 ---
 ## 🎓 My Top Digital Credential
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/691c99a5-0ff1-4dda-be32-14ba9e706f30" width="210" height="auto" alt="Digital Credential 1" style="display:inline-block; margin-right: 40px; vertical-align: top;" />
-  <img src="https://github.com/user-attachments/assets/1c15e879-db3b-45d1-8241-79f041406ed2" width="210" height="auto" alt="Digital Credential 2" style="display:inline-block; margin-left: 40px; vertical-align: bottom;" />
-</p>
 
+<p align="center">
+  
+  <img 
+    src="https://github.com/user-attachments/assets/1c15e879-db3b-45d1-8241-79f041406ed2" 
+    width="210" 
+    height="auto" 
+    alt="Digital Credential 2" 
+    style="display:inline-block; margin-left: 40px; margin-right: 40px; vertical-align: bottom;" 
+  />
+  
+  <img 
+    src="https://github.com/user-attachments/assets/691c99a5-0ff1-4dda-be32-14ba9e706f30" 
+    width="210" 
+    height="auto" 
+    alt="Digital Credential 1" 
+    style="display:inline-block; margin-right: 40px; vertical-align: top;" 
+  />
+
+
+  <img 
+    src="https://github.com/user-attachments/assets/77b35150-4cd9-4ff5-ad49-c968935f9b8f" 
+    width="210" 
+    height="auto" 
+    alt="Google Prompting Essentials Badge" 
+    style="display:inline-block; margin-left: 40px; vertical-align: top;" 
+  />
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=Jagrati3&icon=0&color=0)](https://visitcount.itsvg.in)
